@@ -26,7 +26,7 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 
 ---
 
-## ⭐⭐ TO TRANSITION: A great idea would be to tell your current knowledge stack to copilot so that it can identify gaps per topic what we do know and what we don't...start prompting like "You are a DSA 0 to complete roadmap expert...here is my roadmap [1] and here is my learning status [2], analyze my current level and guide me on the way forward"
+## ⭐⭐ TO TRANSITION: A great idea would be to tell your current knowledge stack to copilot so that it can identify gaps per topic what we do know and what we don't...start prompting like "You are a DSA 0 to complete roadmap expert...here is my roadmap(topics covered and missed, can solve again?) [1] and here is my learning status(confidence level number of questions solved, intuition developed?, able to visualize, able to dry run?) [2], analyze my current level and guide me on the way forward"
 
 #### **Step 3: Optimization & Interview Mastery**
 * **Focus:** Transition to targeted interview sheets to discover cleaner, time/space-optimal solutions.
@@ -36,7 +36,7 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 
 ## 📋 Progress Checklist
 
-- [ ] **Step 1:** Complete Graph & Binary Tree topics *(Mission 150 DSA)* `[Deadline: Jul 31]`
+- [X] **Step 1:** Complete Graph & Binary Tree topics *(Mission 150 DSA)* `[Deadline: Jul 31]` Reality reached 123 questions **27 SHORT**
 - [ ] **Step 2:** Generate Copilot/AI revision schedule for mixed-topic cycling
-- [ ] **Step 2:** Practice dry-running and "thinking out loud" on mixed questions *(Mission 250 DSA)* `[Deadline: Aug 15]`
+- [ ] **Step 2:** Practice dry-running and "thinking out loud" on mixed questions *(Mission 250 DSA)* `[Deadline: Aug 15]` *9 questions per day - Decide when to do easy medium hard (3 5 1) or (4 4 1) or (2 5 2) morning/evening/night session* 
 - [ ] **Step 3:** Review optimal solutions across key DSA sheets & refine time/space complexity intuition
