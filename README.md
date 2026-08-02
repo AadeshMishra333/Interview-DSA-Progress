@@ -45,3 +45,4 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 * Got the [Roadmap](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/Roadmap/Copilot%20Roadmap.pdf) now making a separate file for each learning from the roadmap given
 * **Progress Update**
 - [ ] Complete the Given Roadmap by august 15
+- [ ] New knowledge base at the end of this Roadmap!
