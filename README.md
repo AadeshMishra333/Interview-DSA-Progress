@@ -38,5 +38,5 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 
 - [X] **Step 1:** Complete Graph & Binary Tree topics *(Mission 150 DSA)* `[Deadline: Jul 31]` Reality reached 123 questions **27 SHORT**
 - [ ] **Step 2:** Generate Copilot/AI revision schedule for mixed-topic cycling
-- [ ] **Step 2:** Practice dry-running and "thinking out loud" on mixed questions *(Mission 250 DSA)* `[Deadline: Aug 15]` *9 questions per day - Decide when to do easy medium hard (3 5 1) or (4 4 1) or (2 5 2) morning/evening/night session* 
+- [ ] **Step 2.1:** Practice dry-running and "thinking out loud" on mixed questions *(Mission 250 DSA)* `[Deadline: Aug 15]` *9 questions per day - Decide when to do easy medium hard (3 5 1) or (4 4 1) or (2 5 2) morning/evening/night session* 
 - [ ] **Step 3:** Review optimal solutions across key DSA sheets & refine time/space complexity intuition
