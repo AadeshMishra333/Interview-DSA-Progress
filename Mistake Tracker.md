@@ -1,0 +1,42 @@
+# DSA Mistake Tracker & Error Tag System
+
+## 1. Error Tag System Definition
+
+Use these standardized 2-letter tags to diagnose **why** a problem was missed, required editorial help, or took too long to solve. Focus on fixing the underlying cause rather than just counting solved problems.
+
+| Tag | Category | Definition & Examples |
+| :---: | :--- | :--- |
+| **PR** | **Pattern Recognition** | Failed to recognize the underlying approach or data structure (e.g., missed that it was a Sliding Window, Monotonic Stack, or Topological Sort problem). |
+| **IN** | **Invariant / State** | Knew the general approach, but couldn't define the loop invariant, window maintenance condition, or DP state/transition formula. |
+| **IM** | **Implementation** | Knew the exact logic, but made implementation errors (e.g., off-by-one indexing, bad pointer reassignments, or syntax bugs). |
+| **EC** | **Edge Case** | Logic failed on boundary conditions (e.g., empty array, single-element input, duplicates, negative numbers, integer overflow, or disconnected graphs). |
+| **DR** | **Dry Run** | Skipped or rushed manual dry-running before submitting, missing state update bugs or loop termination flaws. |
+| **TC** | **Time/Space Complexity** | Couldn't derive, state, or justify the time or auxiliary space complexity correctly while thinking out loud. |
+| **RC** | **Recall** | Problem was solved in the past, but the core intuition felt entirely new or forgotten upon re-encountering it. |
+| **CM** | **Communication** | Struggled to articulate thoughts, explain trade-offs, or speak through the intuition clearly before writing code. |
+
+---
+
+## 2. Mistake Tracker Log Template
+
+Copy and fill out the table below whenever you face friction, fail a submission, or rely on solutions/hints.
+
+| Date | Problem Title | Platform | Topic / Pattern | Difficulty | Solved Status | Error Tag(s) | Key Mistake / Root Cause | Actionable Takeaway / Pattern Rule | Next Review Date |
+| :---: | :--- | :---: | :--- | :---: | :---: | :---: | :--- | :--- | :---: |
+| 2026-08-02 | Subarray Sum Equals K | LeetCode | Prefix Sum + Hashing | Medium | Editorial | **PR, EC** | Tried two pointers; forgot array contains negative numbers. | Two pointers fails with negative numbers—use `PrefixSum[i] - K` map lookup instead. | 2026-08-05 |
+| 2026-08-03 | Lowest Common Ancestor | LeetCode | Binary Trees | Medium | Independent | **EC** | Failed edge case where root itself is `p` or `q`. | Tree recursion base case must return `root` immediately if `root == p \|\| root == q`. | 2026-08-06 |
+| 2026-08-03 | Sliding Window Maximum | LeetCode | Monotonic Queue | Hard | Hint Used | **IN, DR** | Couldn't maintain queue order properly when shrinking window. | Monotonic Deque should store *indices*, and remove from front when `index <= i - k`. | 2026-08-10 |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+
+---
+
+### How to Maintain This Repository
+
+* **Immediate Logging:** Add an entry immediately after completing a problem or reviewing an editorial.
+* **Combine Tags:** If you missed both the pattern and an edge case, tag it as **`PR, EC`**.
+* **3-Level Spaced Revision:**
+  1. **Level 1 (Day 1):** Title-only recall of pattern and invariant (2 mins).
+  2. **Level 2 (Day 3):** Reconstruct algorithm steps and edge cases on paper (5 mins).
+  3. **Level 3 (Day 7):** Code from scratch and dry-run without looking at past solutions.
