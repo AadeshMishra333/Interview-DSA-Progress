@@ -97,6 +97,20 @@
 
 ---
 
+```mermaid
+flowchart TD
+    V["<b>V: Verbalize the Problem</b><br/>Clarify input-output transformation, constraints, and brute-force approach before writing code."]
+    I["<b>I: Identify the Structural Signal</b><br/>Analyze input patterns (sorted, contiguous, overlapping, monotonic) to select the right algorithm."]
+    S["<b>S: State the Invariant or State Definition</b><br/>Formulate DP states, sliding window bounds, stack invariants, or search intervals."]
+    U["<b>U: Use a Concrete Example</b><br/>Trace a small, non-trivial test case visually (pointers, indices, stack/queue state)."]
+    A["<b>A: Attack Edge Cases</b><br/>Test against minimal, extreme, or tricky boundaries (empty, duplicates, sorted, single-element)."]
+    L["<b>L: Lock Complexity and Code</b><br/>State Big-O time/space bounds, implement the solution, and dry-run with edge cases."]
+
+    V --> I --> S --> U --> A --> L
+```
+
+---
+
 # 7. Thinking-Out-Loud Script
 
 Use this compact interview script:
