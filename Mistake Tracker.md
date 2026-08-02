@@ -28,7 +28,7 @@ Copy and fill out the table below whenever you face friction, fail a submission,
 | 2026-08-03 | Sliding Window Maximum | LeetCode | Monotonic Queue | Hard | Hint Used | **IN, DR** | Couldn't maintain queue order properly when shrinking window. | Monotonic Deque should store *indices*, and remove from front when `index <= i - k`. | 2026-08-10 |
 | 2026-08-02 | Binary Tree Preorder Traversal | LeetCode | Recursion | Easy | Solved |**TC** | Couldn't derive time and space complexities for recurrence relation | I have given in notes a general way to get the time and space complexities of recursive problems in particular | 2026-08-05 |
 | 2026-08-02 | Diameter of a Binary Tree | LeetCode | Recursion | Easy | Solved by AI |**IM** | Confused in what to update and what to return | update `max_dia = max(left+right,max_dia)` and return `1+max of left and right` | 2026-08-05 |
-| | | | | | | | | | |
+| 2026-08-02 | Subarray sum equals K | LeetCode | Arrays | Medium | _FOR REVIEW_ | **IM, DR, PR** | Confused in how to manage negative numbers | To Review | 2026-08-03 |
 
 ---
 
