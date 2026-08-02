@@ -206,3 +206,23 @@ You have **14 calendar days**, including August 2 and August 15. At nine questio
   * Frequently missed edge cases
   * Ten highest-value mistakes
   * Templates you still cannot reproduce from memory
+ 
+## 5. Question-Selection Rules
+
+Random cycling should not mean selecting nine unrelated problems blindly.
+
+### Daily Composition
+* **40% Foundation:** Trees, Graphs, DP
+* **30% Pattern Repair:** Sliding Window, Monotonic Stack, Recursion, Heap
+* **20% Maintenance:** Arrays, Binary Search, Linked List, Strings
+* **10% Rotating:** Greedy, Bit Manipulation, Sorting, basic Stack/Queue
+
+---
+
+### Additional Rules
+* No more than three questions from one topic in a day.
+* No more than two consecutive questions from the same topic.
+* At least one question daily must come without its topic label.
+* At least one solved question daily must be explained without looking at code.
+* Hard questions should generally extend a pattern practiced earlier that day.
+* If a problem was solved with substantial editorial help, mark it **Learned**, not **Solved Independently**.
