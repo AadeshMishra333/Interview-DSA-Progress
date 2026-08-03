@@ -29,6 +29,8 @@ Copy and fill out the table below whenever you face friction, fail a submission,
 | 2026-08-02 | Binary Tree Preorder Traversal | LeetCode | Recursion | Easy | Solved |**TC** | Couldn't derive time and space complexities for recurrence relation | I have given in notes a general way to get the time and space complexities of recursive problems in particular | 2026-08-05 |
 | 2026-08-02 | Diameter of a Binary Tree | LeetCode | Recursion | Easy | Solved by AI |**IM** | Confused in what to update and what to return | update `max_dia = max(left+right,max_dia)` and return `1+max of left and right` | 2026-08-05 |
 | 2026-08-02 | Subarray sum equals K | LeetCode | Arrays | Medium | _FOR REVIEW_ | **IM, DR, PR** | Confused in how to manage negative numbers | To Review | 2026-08-03 |
+| 2026-08-02 | Subarray product less than k | LeetCode | Sliding Window | Medium | Solved | **IM** | Order of Updation of sliding window and product was not correct | maintain this order, insert window, increment l, update answer | Done |
+| 2026-08-02 | Perfect Squares | LeetCode | DP | Medium | Solved Saw Hint | **IM, DR, PR** | Didn't know how to implement non linear jumps in DP | An inner loop can help to give non linear jumps | 2026-08-05 |
 
 ---
 
