@@ -23,9 +23,6 @@ Copy and fill out the table below whenever you face friction, fail a submission,
 
 | Date | Problem Title | Platform | Topic / Pattern | Difficulty | Solved Status | Error Tag(s) | Key Mistake / Root Cause | Actionable Takeaway / Pattern Rule | Next Review Date |
 | :---: | :--- | :---: | :--- | :---: | :---: | :---: | :--- | :--- | :---: |
-| 2026-08-02 | Subarray Sum Equals K | LeetCode | Prefix Sum + Hashing | Medium | Editorial | **PR, EC** | Tried two pointers; forgot array contains negative numbers. | Two pointers fails with negative numbers—use `PrefixSum[i] - K` map lookup instead. | 2026-08-05 |
-| 2026-08-03 | Lowest Common Ancestor | LeetCode | Binary Trees | Medium | Independent | **EC** | Failed edge case where root itself is `p` or `q`. | Tree recursion base case must return `root` immediately if `root == p \|\| root == q`. | 2026-08-06 |
-| 2026-08-03 | Sliding Window Maximum | LeetCode | Monotonic Queue | Hard | Hint Used | **IN, DR** | Couldn't maintain queue order properly when shrinking window. | Monotonic Deque should store *indices*, and remove from front when `index <= i - k`. | 2026-08-10 |
 | 2026-08-02 | Binary Tree Preorder Traversal | LeetCode | Recursion | Easy | Solved |**TC** | Couldn't derive time and space complexities for recurrence relation | I have given in notes a general way to get the time and space complexities of recursive problems in particular | 2026-08-05 |
 | 2026-08-02 | Diameter of a Binary Tree | LeetCode | Recursion | Easy | Solved by AI |**IM** | Confused in what to update and what to return | update `max_dia = max(left+right,max_dia)` and return `1+max of left and right` | 2026-08-05 |
 | 2026-08-02 | Subarray sum equals K | LeetCode | Arrays | Medium | _FOR REVIEW_ | **IM, DR, PR** | Confused in how to manage negative numbers | To Review | 2026-08-03 |
