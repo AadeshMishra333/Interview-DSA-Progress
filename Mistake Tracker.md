@@ -31,6 +31,10 @@ Copy and fill out the table below whenever you face friction, fail a submission,
 | 2026-08-02 | Subarray sum equals K | LeetCode | Arrays | Medium | _FOR REVIEW_ | **IM, DR, PR** | Confused in how to manage negative numbers | To Review | 2026-08-03 |
 | 2026-08-02 | Subarray product less than k | LeetCode | Sliding Window | Medium | Solved | **IM** | Order of Updation of sliding window and product was not correct | maintain this order, insert window, increment l, update answer | Done |
 | 2026-08-02 | Perfect Squares | LeetCode | DP | Medium | Solved Saw Hint | **IM, DR, PR** | Didn't know how to implement non linear jumps in DP | An inner loop can help to give non linear jumps | 2026-08-05 |
+| 2026-08-03 | 01 Matrix | LeetCode | DP | Medium | Solved Saw Hint | **IM, PR** | Didn't have a general idea of matrix neighbor traversal | Top left bottom right approach is excellent | 2026-08-06 |
+| 2026-08-03 | Island Perimeter | LeetCode | Array 2d | Easy | Solved Saw Hint | **IM, PR** | Didn't have a general idea of matrix neighbor traversal | Top left approach is enough due to `+4 -2` rule | 2026-08-06 |
+| 2026-08-03 | Magnetic Force Between 2 Balls | LeetCode | BS on answer | Medium | Solved Saw Hint | **DR, PR** | Didn't get the condition to update l,m,r correct | When trial of an answer, check if we can place all balls at distance `>= answer` | 2026-08-06 |
+| 2026-08-03 | Shortest path with obstacle elimination | LeetCode | BFS,DP,Matrix | Hard | Unsolved | **IM, PR, DR** | Many concepts missing, can't visualize the easiest version that i can code as well | ___ | 2026-08-08 |
 
 ---
 
