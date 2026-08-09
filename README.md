@@ -44,5 +44,13 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 ### **02-08-2026**
 * Got the [Roadmap](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/Roadmap/Copilot%20Roadmap.pdf) now making a separate file for each learning from the roadmap given
 * **Progress Update**
-- [ ] Complete the Given Roadmap by august 15
+- [x] Complete the Given Roadmap by august 15 (completed well in advance 😁🙏)
 - [ ] New knowledge base at the end of this Roadmap!
+- [ ] Update the Review Questions Section
+
+### **09-08-2026**
+* Seven days into this plan, looking pretty smooth so far and have reached around 200 questions, but i am noticing that the questions are getting shallow, just brushing the surface of a topic that's all.
+* **UPDATE in the Roadmap:** We are now moving to targeted questions that require deep concepts building graphs, trees and core DSA targetting microsoft like companies
+- [ ] Update the Roadmap
+- [ ] Review the remaining questions and progress with conceptual clarity by 11th August
+* **NEXT aim:** To get a better flow of DSA questions back of the head
