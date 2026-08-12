@@ -51,10 +51,12 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 ### **09-08-2026**
 * Seven days into this plan, looking pretty smooth so far and have reached around 200 questions, but i am noticing that the questions are getting shallow, just brushing the surface of a topic that's all.
 * **UPDATE in the Roadmap:** We are now moving to targeted questions that require deep concepts building graphs, trees and core DSA targetting microsoft like companies
-- [ ] Update the Roadmap
+- [x] Update the Roadmap
 - [ ] Review the remaining questions and progress with conceptual clarity by 13th August
 * **NEXT aim:** To get a better flow of DSA questions back of the head
 
 ### **11-08-2026**
 * 25 Questions for review, solve and build concept then move on to case based questions it's like a transition from JEE MAINS to JEE Advanced
 * Then start doing timed questions and interview preparation
+> WE ARE APPORACHING DSA LIKE JEE...first we solved mains levels questions then we will review them, then we will move to advanced level multi concept DSA along with case based questions and huge elaborate problems And finally timed questions for interview level preparation of DSA and stay consistent in practice. So note the IDEA for future
+* updated the Roadmap [NEW](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/allSolved_9_8_26.txt)
