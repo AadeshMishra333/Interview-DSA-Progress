@@ -60,3 +60,26 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 * Then start doing timed questions and interview preparation
 > WE ARE APPORACHING DSA LIKE JEE...first we solved mains levels questions then we will review them, then we will move to advanced level multi concept DSA along with case based questions and huge elaborate problems And finally timed questions for interview level preparation of DSA and stay consistent in practice. So note the IDEA for future
 * updated the Roadmap [NEW](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/allSolved_9_8_26.txt)
+
+### **26-08-2026**
+# CURRENT BLOCKADE - Phoonk de khud ko jwala jwala bin khud jale na hoye ujala
+> 22-08-2026 Heaps
+> longest happy string, Heaps, Medium, Solved, Review Required (EC,DR)
+> Find median min max heap concept? solved, IM
+> wiggle sort II DR, IM
+> 
+> 22-08-2026
+> Find K closest elements (binary search solution see)
+> Analysis of graphs and Trees, Time and Space Complexity!!
+> Reorder List TC(solved with huge time taken),IM
+> LRU Cache Ordered Dict concept
+> Copy list with random pointer Hard Unsolved
+> 
+> 22-08-2026 Prefix Sum (new and difficult concept)
+> Make sum divisible by P, Maximum number of removable Characters, (Done but see) Contiguous Array, Sub array sum equals K
+> 
+> Binary search on answer
+> Minimum number of operations to make array continuous
+> Split Array largest sum
+> 
+> Frog jump, Lowest common ancestor, word ladder, path with minimum effort
