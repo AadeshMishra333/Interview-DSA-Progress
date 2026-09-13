@@ -88,4 +88,11 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 
 ### **13-09-2026**
 - Come back maarna hai - Revise + Current Blockade + Blind 150 + Case Based Interview Level Question
+- Step1: Recall + Get Beck in form by solving Leetcode (10 review questions + 1/2 Blockade + 5 new Questions on Leetcode (Medium/Hard)) (DAILY)
 - Move Beyond Leetcode?
+  - Yes For Case Based Questions along with Some Pressure Handling Through CP
+  - Refer [Hacker earth](https://www.hackerearth.com/practice/) Hard Problems for hard questions (Half Days Pe)
+  - Refer [Code chef](https://www.codechef.com/practice/3-star-difficulty-problems) for 1600 + problem (look for topic wise if any topic is seeing weak)
+  - Refer Codeforces for 4-div (novice) competition...also see a basic [guide](https://share.gemini.google/EcVwZQdf2bQu) on starting codeforces (WEEKLY)
+  - Start Earning Leet Coins (WEEKLY)
+  - Solve Hard Question from Hackerearth, CodeForces 1400 + rating
