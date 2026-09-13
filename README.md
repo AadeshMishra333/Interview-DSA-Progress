@@ -45,14 +45,14 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 * Got the [Roadmap](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/Roadmap/Copilot%20Roadmap.pdf) now making a separate file for each learning from the roadmap given
 * **Progress Update**
 - [x] Complete the Given Roadmap by august 15 (completed well in advance 😁🙏)
-- [ ] New knowledge base at the end of this Roadmap!
-- [ ] Update the Review Questions Section
+- [x] New knowledge base at the end of this Roadmap!
+- [x] Update the Review Questions Section
 
 ### **09-08-2026**
 * Seven days into this plan, looking pretty smooth so far and have reached around 200 questions, but i am noticing that the questions are getting shallow, just brushing the surface of a topic that's all.
 * **UPDATE in the Roadmap:** We are now moving to targeted questions that require deep concepts building graphs, trees and core DSA targetting microsoft like companies
 - [x] Update the Roadmap
-- [ ] Review the remaining questions and progress with conceptual clarity by 13th August
+- [x] Review the remaining questions and progress with conceptual clarity by 13th August
 * **NEXT aim:** To get a better flow of DSA questions back of the head
 
 ### **11-08-2026**
@@ -63,23 +63,28 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 
 ### **26-08-2026**
 # CURRENT BLOCKADE - Phoonk de khud ko jwala jwala bin khud jale na hoye ujala
-> 22-08-2026 Heaps
-> longest happy string, Heaps, Medium, Solved, Review Required (EC,DR)
-> Find median min max heap concept? solved, IM
-> wiggle sort II DR, IM
+> **22-08-2026 Heaps**
+> - longest happy string, Heaps, Medium, Solved, Review Required (EC,DR)
+> - Find median min max heap concept? solved, IM
+> - wiggle sort II DR, IM
 > 
-> 22-08-2026
-> Find K closest elements (binary search solution see)
-> Analysis of graphs and Trees, Time and Space Complexity!!
-> Reorder List TC(solved with huge time taken),IM
-> LRU Cache Ordered Dict concept
-> Copy list with random pointer Hard Unsolved
+> **22-08-2026**
+> - Find K closest elements (binary search solution see)
+> - Analysis of graphs and Trees, Time and Space Complexity!!
+> - Reorder List TC(solved with huge time taken),IM
+> - LRU Cache Ordered Dict concept
+> - Copy list with random pointer Hard Unsolved
 > 
-> 22-08-2026 Prefix Sum (new and difficult concept)
-> Make sum divisible by P, Maximum number of removable Characters, (Done but see) Contiguous Array, Sub array sum equals K
+> **22-08-2026 Prefix Sum (new and difficult concept)**
+> - Make sum divisible by P, Maximum number of removable Characters, (Done but see) Contiguous Array, Sub array sum equals K
 > 
-> Binary search on answer
-> Minimum number of operations to make array continuous
-> Split Array largest sum
+> **Binary search on answer**
+> - Minimum number of operations to make array continuous
+> - Split Array largest sum
 > 
-> Frog jump, Lowest common ancestor, word ladder, path with minimum effort
+> - Frog jump, Lowest common ancestor, word ladder, path with minimum effort
+
+
+### **13-09-2026**
+- Come back maarna hai - Revise + Current Blockade + Blind 150 + Case Based Interview Level Question
+- Move Beyond Leetcode?
