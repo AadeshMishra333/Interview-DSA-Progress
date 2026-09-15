@@ -98,6 +98,6 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
   - Solve Hard Question from Hackerearth, CodeForces 1400 + rating
  
 ### **15-09-2026**
-- Solve Blind 75
+- Solve Blind 75 - Remember [this](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/Roadmap/Best%20Practices%20Important.md)
 - Review Problems
 - Refer **13-09-2026** for frequency of Hacker earth, Code Chef and Code Forces
