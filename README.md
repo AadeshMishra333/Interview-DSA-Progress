@@ -96,3 +96,8 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
   - Refer Codeforces for 4-div (novice) competition...also see a basic [guide](https://share.gemini.google/EcVwZQdf2bQu) on starting codeforces (WEEKLY)
   - Start Earning Leet Coins (WEEKLY)
   - Solve Hard Question from Hackerearth, CodeForces 1400 + rating
+ 
+### **15-09-2026**
+- Solve Blind 75
+- Review Problems
+- Refer **13-09-2026** for frequency of Hacker earth, Code Chef and Code Forces
