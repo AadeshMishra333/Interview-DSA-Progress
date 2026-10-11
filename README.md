@@ -101,3 +101,10 @@ Completed several core topics from **Striver’s A-Z DSA Sheet** to build founda
 - Solve Blind 75 - Remember [this](https://github.com/AadeshMishra333/Interview-DSA-Progress/blob/main/Roadmap/Best%20Practices%20Important.md)
 - Review Problems
 - Refer **13-09-2026** for frequency of Hacker earth, Code Chef and Code Forces
+
+
+### **11-10-2026 — Practice plan and 10 October check-in**
+
+The 10-review daily target from 13 September is superseded. Use a connected sequence: **2 solved reviews linked to the current blockade or new Hard**, **1 optional solved review linked to a new Medium**, **2 blockade problems**, and **5 new problems with only 1 Hard**. Choose reviews that prepare the next problem rather than a random batch.
+
+On 10 October, the 10 assigned reviews (#1, #3, #238, #53, #121, #122, #15, #62, #102, #207) were left undone; their review status is unchanged. Open blockades: #1590 (prefix-sum idea not recognized), #239 (implementation idea not found), and #115 (no approach came to mind). By Aadesh's check-in rule, the unmentioned assignments #76, #1288, #236, and #1579 were completed and solved. #76 was already accepted on 9 October and #236 was already in the historical solved list, so these are revisits. #1288 and #1579 are new learner-reported solves; live LeetCode submission verification is pending.
