@@ -60,3 +60,14 @@ Copy and fill out the table below whenever you face friction, fail a submission,
   1. **Level 1 (Day 1):** Title-only recall of pattern and invariant (2 mins).
   2. **Level 2 (Day 3):** Reconstruct algorithm steps and edge cases on paper (5 mins).
   3. **Level 3 (Day 7):** Code from scratch and dry-run without looking at past solutions.
+
+
+## 10 October 2026 check-in (reported 11 October)
+
+| Date | Problem Title | Platform | Topic / Pattern | Difficulty | Solved Status | Error Tag(s) | Key Mistake / Root Cause | Actionable Takeaway / Pattern Rule | Next Review Date |
+| :---: | :--- | :---: | :--- | :---: | :---: | :---: | :--- | :--- | :---: |
+| 2026-10-10 | [#1590 Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | LeetCode | Prefix Sum, Modular Arithmetic, Hash Map | Medium | Unsolved in this attempt; blockade open | **PR** | Did not recognize the prefix-sum idea; still doubtful | Rebuild the remainder transformation on paper: remove a subarray whose sum has remainder `sum(nums) % p`, then use prefix remainders to seek the shortest valid removal. | Not scheduled |
+| 2026-10-10 | [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | LeetCode | Monotonic Deque, Sliding Window | Hard | Unsolved in this attempt; blockade open | **IM** | Could not form an implementation idea | Write the deque operations in order: remove expired front indices, remove smaller values from the back, append the new index, then read the front maximum. Dry-run one window at a time before coding. | Not scheduled |
+| 2026-10-10 | [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | LeetCode | Dynamic Programming, String Subsequences | Hard | Unsolved in this attempt; blockade open | **PR** | No approach came to mind | First define `dp[i][j]` as the number of ways the first `i` source characters form the first `j` target characters; derive skip and match transitions before coding. | Not scheduled |
+
+The ten assigned reviews (#1, #3, #238, #53, #121, #122, #15, #62, #102, #207) were left undone and were not updated. By Aadesh's check-in convention, the unmentioned #76, #1288, #236, and #1579 were solved. #76 and #236 were revisits; the historical 12 August #236 row above remains unchanged as a record of that earlier attempt. No new error was reported for these solved questions.
