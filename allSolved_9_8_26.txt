@@ -384,3 +384,21 @@ text = """2958,"Length of Longest Subarray With at Most K Frequency",58.1%,Mediu
 1405,"Longest Happy String",65.6%,Medium
 1870,"Minimum Speed to Arrive on Time",48.2%,Medium
 1898,"Maximum Number of Removable Characters",47.8%,Medium
+
+### Update 08-10-2026 to 09-10-2026 — signed-in LeetCode Accepted history
+Problem ID,Title,Acceptance Rate,Difficulty
+124,"Binary Tree Maximum Path Sum",Not recorded,Hard
+974,"Subarray Sums Divisible by K",Not recorded,Medium
+76,"Minimum Window Substring",Not recorded,Hard
+1488,"Avoid Flood in The City",Not recorded,Medium
+787,"Cheapest Flights Within K Stops",Not recorded,Medium
+743,"Network Delay Time",Not recorded,Medium
+
+#124 and #974 were Accepted on 8 October; #76, #1488, #787, and #743 were Accepted on 9 October. #76 remains a fragile review (TC, IM) despite its Accepted result.
+
+### Update 10-10-2026 — learner-reported solves
+Problem ID,Title,Acceptance Rate,Difficulty
+1288,"Remove Covered Intervals",Not recorded,Medium
+1579,"Remove Max Number of Edges to Keep Graph Fully Traversable",Not recorded,Hard
+
+Aadesh's 11 October check-in treats unmentioned assigned questions as solved. #1288 and #1579 are new learner-reported solves; live submission verification is pending. #76 and #236 were also completed on 10 October but are revisits, so they are not duplicated in this inventory. The ten assigned review questions were left undone. #1590, #239, and #115 remain unresolved and are not added.
